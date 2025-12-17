@@ -13,3 +13,14 @@ int main() {
     printf("Loop ended, num = %d\n", num);  // runs outside loop
     return 0;
 }
+
+
+
+/* Real-world scenario:
+
+Keep processing user input until they decide to exit
+
+Continuously check sensor data until a threshold is reached
+
+Reading messages from a queue until empty
+*/
