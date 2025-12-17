@@ -26,4 +26,8 @@ The compiler does not require initialization or increment.
 Since the condition is always true, the loop never stops.
 Update → empty → nothing happens.
 
-So the loop never ends, creating an infinite loop.    */
+So the loop never ends, creating an infinite loop.  
+
+ and also same reason for while loops and do-while loop for condition:   while (1);
+
+*/
